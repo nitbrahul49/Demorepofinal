@@ -12,6 +12,6 @@ public class TestAddTwoNumbers {
 	{
 		AddTwoNumbers obj = new AddTwoNumbers();
 		int result = obj.addTwoNumbers(100, 200);
-		Assert.assertEquals(300,result);
+		Assert.assertEquals(200,result);
 	}
 }
